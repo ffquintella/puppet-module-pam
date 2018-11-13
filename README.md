@@ -1,5 +1,7 @@
 # PAM module for Puppet
 
+This module is only for legacy code. Please do not use it on new codes. 
+
 ## Description
 Puppet module for managing /etc/security/access.conf
 and /etc/security/limits.conf
